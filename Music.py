@@ -13,7 +13,7 @@ import math
 import random
 from async_timeout import timeout
 
-TOKEN = 'Njk3MDE3MDAwMTEwODUwMDQ4.XoxJuQ.sJRz-WgMmNX55I_niPjXFNA5hZw'
+TOKEN = 'Njk3MDE3MDAwMTEwODUwMDQ4.Xo2xlA.1USyCdKwnmW1VNvLGjxBzMyj5Do'
 client = commands.Bot(command_prefix='c!')
 
 
